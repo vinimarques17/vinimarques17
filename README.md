@@ -9,7 +9,12 @@ Engenheiro mecânico migrando para o Desenvolvimento de software
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ## 📊 Estatísticas
-![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimarques17&show_icons=true&theme=radical)
+<p align="center">![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimarques17&show_icons=true&theme=radical)</p>
+
+## 🔥 Projetos em Destaque
+
+- 🚀 [**Chatbot com Python**](https://github.com/vinimarques17/furia-telegram-bot): Chatbot integrado ao Telegram com o uso de Python.
+- 🛠️ [**Alura Books com HTML&CSS**](https://github.com/vinimarques17/mobile-first): Página da Alura Books utilizando Mobile First
 
 ## 📫 Entre em contato
 
