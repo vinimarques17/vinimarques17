@@ -9,7 +9,9 @@ Engenheiro mecânico migrando para o Desenvolvimento de software
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ## 📊 Estatísticas
-<p align="center">![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimarques17&show_icons=true&theme=radical)</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinimarques17&show_icons=true&theme=radical" alt="Vini's GitHub stats" />
+</p>
 
 ## 🔥 Projetos em Destaque
 
@@ -18,11 +20,11 @@ Engenheiro mecânico migrando para o Desenvolvimento de software
 
 ## 📫 Entre em contato
 
-<p align="left">
-  <a href="https://linkedin.com/in/joaosilva" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-mantovani-marques/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://joaosilva.dev" target="_blank">
+  <a href="https://github.com/vinimarques17" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
   </a>
 </p>
