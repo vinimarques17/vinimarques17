@@ -1,12 +1,5 @@
 # 👋 Seja bem-vindo! Sou o Vinicius!
 
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:999999,100:000000ff&height=200&section=header&text=Vinicius%20Marques&fontSize=40&fontColor=ffffff"
-</p>
-
-</p>
-
 ## 👋 Sobre mim
 
 👨‍🔧 Engenheiro Mecânico em transição para o Desenvolvimento de Software  
