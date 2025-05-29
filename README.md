@@ -1,6 +1,18 @@
 # 👋 Seja bem-vindo! Sou o Vinicius!
 
-Engenheiro mecânico migrando para o Desenvolvimento de software
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:999999,100:000000ff&height=200&section=header&text=Vinicius%20Marques&fontSize=40&fontColor=ffffff" />
+</p>
+" />
+</p>
+
+## 👋 Sobre mim
+
+👨‍🔧 Engenheiro Mecânico em transição para o Desenvolvimento de Software  
+💻 Em formação como Desenvolvedor Full Stack, com foco em construir aplicações completas e funcionais  
+🚀 Apaixonado por tecnologia, código limpo e resolução de problemas do mundo real  
+📚 Aprendizado contínuo com projetos práticos, boas práticas de desenvolvimento e colaboração open source
 
 ## 🚀 Tecnologias e ferramentas
 <p align="center">
@@ -13,6 +25,7 @@ Engenheiro mecânico migrando para o Desenvolvimento de software
 ## 📊 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinimarques17&show_icons=true&theme=radical" alt="Vini's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinimarques17&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ## 🔥 Projetos em Destaque
