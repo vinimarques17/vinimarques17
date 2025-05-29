@@ -12,8 +12,16 @@ Engenheiro mecânico migrando para o Desenvolvimento de software
 ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimarques17&show_icons=true&theme=radical)
 
 ## 📫 Entre em contato
-- [LinkedIn](https://www.linkedin.com/in/vinicius-mantovani-marques)
-- [Portfólio](https://github.com/vinimarques17) 👋
+
+<p align="left">
+  <a href="https://linkedin.com/in/joaosilva" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://joaosilva.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
+  </a>
+</p>
+
 
 <!--
 **vinimarques17/vinimarques17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
