@@ -3,10 +3,12 @@
 Engenheiro mecânico migrando para o Desenvolvimento de software
 
 ## 🚀 Tecnologias e ferramentas
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
+</p>
 
 ## 📊 Estatísticas
 <p align="center">
